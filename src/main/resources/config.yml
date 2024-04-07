@@ -1,0 +1,18 @@
+HOST: "dedi.ducky.media"
+PORT: 3306
+DATABASE-NAME: "s3_nateoncaprisun"
+USERNAME: "u3_1PpnVlT838"
+PASSWORD: "IusW8..Bqu10cne4C+^2k5q8"
+
+Taakstraf-Region: "taakstraf"
+
+Taakstraf-Material: DEAD_BUSH
+Taakstraf-Click-Minimum: 2
+Taakstraf-Click-Maximum: 5
+
+Plant-Herplaatst: 30
+
+Spawn:
+  X:
+  Y:
+  Z:

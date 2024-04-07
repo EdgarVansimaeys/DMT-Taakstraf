@@ -1,0 +1,4 @@
+name: DMT-Taakstraf
+version: '${project.version}'
+main: be.nateoncaprisun.dmttaakstraf.DMTTaakstraf
+authors: [ NateOnCaprisun, EddieFreddie ]
